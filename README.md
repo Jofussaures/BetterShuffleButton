@@ -1,5 +1,5 @@
 # BetterShufleButton
-A shuffle button that queues songs that relate to the song that came before it using Anaconda, Juypter, multiple Python libraries and machine learning.
-This project was made as a capstone project done at Neumont College of Computer Science.
-I worked on this project from January 6, 2020 to March 12, 2020.
-The data I used was from 'Spotify Dataset 1921-2020, 160k+ Tracks' by Yamaç Eren Ay on Kaggle. https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
+This is a shuffle button that "analyizes" your mood. 
+Currently, Spotify's shuffle button only shuffles top played tracks you have listened to with a dash of truly random songs.
+This shuffle button analyizes a selected song and queue's other songs that fit the mood/vibe.
+This was created as a capstone at Neumont College Of Computer Science - Jan 5, 2021 to Mar 12, 2021
