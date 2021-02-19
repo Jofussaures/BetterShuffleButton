@@ -4,4 +4,5 @@ Currently, Spotify's shuffle button only shuffles top played tracks you have lis
 This shuffle button analyizes a selected song and queue's other songs that fit the mood/vibe.
 This was created as a capstone at Neumont College Of Computer Science - Jan 5, 2021 to Mar 12, 2021
 
-I would have wanted this to turn into an automatci function but I didn't have time. This was a theory that others, or myself, could hopefully improve on.
+I would have wanted this to turn into an automatcic function but I didn't have time. This was a theory that others, or myself, could hopefully improve on.
+I reccommend lookng at Better Shuffle Button - Present file to understand how it all works
